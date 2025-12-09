@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/v8816/Gearworks_midi_radio_test/main/song1.mid|55
+https://raw.githubusercontent.com/v8816/Gearworks_midi_radio_test/main/song2.mid|11
